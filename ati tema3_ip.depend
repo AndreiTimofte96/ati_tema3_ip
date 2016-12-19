@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482158847 source:d:\probleme_c++\ati tema3_ip\main.cpp
+	<iostream>
+	<fstream>
+	"t3.h"
+
+1482156142 d:\probleme_c++\ati tema3_ip\t3.h
+
